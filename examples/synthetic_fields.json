@@ -1,0 +1,162 @@
+[
+  {
+    "field_id": "train-0",
+    "year": 2024,
+    "crop": "demo_b",
+    "ndvi": 0.2,
+    "ndmi": 0.1,
+    "vv_db": -10,
+    "vh_db": -16,
+    "data_kind": "synthetic"
+  },
+  {
+    "field_id": "train-1",
+    "year": 2024,
+    "crop": "demo_a",
+    "ndvi": 0.7,
+    "ndmi": 0.4,
+    "vv_db": -8,
+    "vh_db": -13,
+    "data_kind": "synthetic"
+  },
+  {
+    "field_id": "train-2",
+    "year": 2024,
+    "crop": "demo_b",
+    "ndvi": 0.2,
+    "ndmi": 0.1,
+    "vv_db": -10,
+    "vh_db": -16,
+    "data_kind": "synthetic"
+  },
+  {
+    "field_id": "train-3",
+    "year": 2024,
+    "crop": "demo_a",
+    "ndvi": 0.7,
+    "ndmi": 0.4,
+    "vv_db": -8,
+    "vh_db": -13,
+    "data_kind": "synthetic"
+  },
+  {
+    "field_id": "train-4",
+    "year": 2024,
+    "crop": "demo_b",
+    "ndvi": 0.2,
+    "ndmi": 0.1,
+    "vv_db": -10,
+    "vh_db": -16,
+    "data_kind": "synthetic"
+  },
+  {
+    "field_id": "train-5",
+    "year": 2024,
+    "crop": "demo_a",
+    "ndvi": 0.7,
+    "ndmi": 0.4,
+    "vv_db": -8,
+    "vh_db": -13,
+    "data_kind": "synthetic"
+  },
+  {
+    "field_id": "train-6",
+    "year": 2024,
+    "crop": "demo_b",
+    "ndvi": 0.2,
+    "ndmi": 0.1,
+    "vv_db": -10,
+    "vh_db": -16,
+    "data_kind": "synthetic"
+  },
+  {
+    "field_id": "train-7",
+    "year": 2024,
+    "crop": "demo_a",
+    "ndvi": 0.7,
+    "ndmi": 0.4,
+    "vv_db": -8,
+    "vh_db": -13,
+    "data_kind": "synthetic"
+  },
+  {
+    "field_id": "test-0",
+    "year": 2025,
+    "crop": "demo_b",
+    "ndvi": 0.2,
+    "ndmi": 0.1,
+    "vv_db": -10,
+    "vh_db": -16,
+    "data_kind": "synthetic"
+  },
+  {
+    "field_id": "test-1",
+    "year": 2025,
+    "crop": "demo_a",
+    "ndvi": 0.7,
+    "ndmi": 0.4,
+    "vv_db": -8,
+    "vh_db": -13,
+    "data_kind": "synthetic"
+  },
+  {
+    "field_id": "test-2",
+    "year": 2025,
+    "crop": "demo_b",
+    "ndvi": 0.2,
+    "ndmi": 0.1,
+    "vv_db": -10,
+    "vh_db": -16,
+    "data_kind": "synthetic"
+  },
+  {
+    "field_id": "test-3",
+    "year": 2025,
+    "crop": "demo_a",
+    "ndvi": 0.7,
+    "ndmi": 0.4,
+    "vv_db": -8,
+    "vh_db": -13,
+    "data_kind": "synthetic"
+  },
+  {
+    "field_id": "test-4",
+    "year": 2025,
+    "crop": "demo_b",
+    "ndvi": 0.2,
+    "ndmi": 0.1,
+    "vv_db": -10,
+    "vh_db": -16,
+    "data_kind": "synthetic"
+  },
+  {
+    "field_id": "test-5",
+    "year": 2025,
+    "crop": "demo_a",
+    "ndvi": 0.7,
+    "ndmi": 0.4,
+    "vv_db": -8,
+    "vh_db": -13,
+    "data_kind": "synthetic"
+  },
+  {
+    "field_id": "test-6",
+    "year": 2025,
+    "crop": "demo_b",
+    "ndvi": 0.2,
+    "ndmi": 0.1,
+    "vv_db": -10,
+    "vh_db": -16,
+    "data_kind": "synthetic"
+  },
+  {
+    "field_id": "test-7",
+    "year": 2025,
+    "crop": "demo_a",
+    "ndvi": 0.7,
+    "ndmi": 0.4,
+    "vv_db": -8,
+    "vh_db": -13,
+    "data_kind": "synthetic"
+  }
+]
